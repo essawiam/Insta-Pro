@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136355114542",
+    "project_id": "insta-pro-essa-wiam",
+    "storage_bucket": "insta-pro-essa-wiam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136355114542:android:bd4204ac3b458baa4b79bf",
+        "android_client_info": {
+          "package_name": "com.example.insta_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136355114542-gd2uuvrdmcmi9lbkoeknrlr75r7ghogs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiL8oeI9lmB6qd1R1u6pPueTmxRTnjdAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136355114542-gd2uuvrdmcmi9lbkoeknrlr75r7ghogs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
