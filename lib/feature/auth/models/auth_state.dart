@@ -1,6 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:insta_pro/core/state/auth/models/auth_result.dart';
-import 'package:insta_pro/core/state/posts/typedefs/user_id.dart';
+import '../../../core/typedefs/user_id.dart';
+import 'auth_result.dart';
+
 part 'auth_state.freezed.dart';
 
 @freezed
